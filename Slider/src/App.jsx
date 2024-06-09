@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FiChevronRight, FiChevronLeft } from "react-icons/fi";
 import { FaQuoteRight } from "react-icons/fa";
-import Data from "./Components/Data";
+import Data from "./Data";
 function App() {
   const [people, setPeople] = useState(Data);
   const [index, setIndex] = React.useState(0);

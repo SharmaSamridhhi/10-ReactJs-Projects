@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Data from "./Components/Data";
+import Data from "./Data";
 import SingleQuestion from "./Components/Questions";
 function App() {
   const [questions, setQuestions] = useState(Data);
