@@ -3,7 +3,7 @@ import List from "./Components/List";
 import Alert from "./Components/Alert";
 
 function App() {
-  return <h2>grocery bud setup</h2>;
+  return <h2>hello world</h2>;
 }
 
 export default App;
